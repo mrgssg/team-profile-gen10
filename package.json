@@ -1,0 +1,25 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "create a team profile generator ",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mrgssg/team-profile-gen10"
+    },
+    "author": "Mark Green",
+    
+    "homepage": "https://github.com/mrgssg/team-profile-gen10",
+    "devDependencies": {
+      "jest": "^26.0.1"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }

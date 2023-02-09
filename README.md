@@ -13,3 +13,6 @@ When the application is started, you are prompted to enter team information.
 ## Video Link
 ###
 Please click the following link to a walkthrough video that demonstrates the functionality:
+
+<img src="./sampleHTML" width = "400px">
+

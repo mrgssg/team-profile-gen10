@@ -10,9 +10,13 @@ The email and github links are clickable and will connect you to their respectiv
 
 When the application is started, you are prompted to enter team information.  
 
-## Video Link
+## App Links
 ###
 Please click the following link to a walkthrough video that demonstrates the functionality:
+
+Github repository link: https://github.com/mrgssg/team-profile-gen10
+
+Deployed URL link: https://mrgssg.github.io/team-profile-gen10/
 
 ## Sample image generated from HTML: 
 <img src="./sampleHTML.png" width = "400px">

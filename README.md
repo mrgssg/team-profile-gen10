@@ -14,5 +14,6 @@ When the application is started, you are prompted to enter team information.
 ###
 Please click the following link to a walkthrough video that demonstrates the functionality:
 
-<img src="./sampleHTML" width = "400px">
+## Sample image generated from HTML: 
+<img src="./sampleHTML.png" width = "400px">
 

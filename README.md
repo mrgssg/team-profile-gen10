@@ -12,11 +12,11 @@ When the application is started, you are prompted to enter team information.
 
 ## App Links
 ###
-Please click the following link to a walkthrough video that demonstrates the functionality:
+<a href=https://drive.google.com/file/d/1Jiz1aWEWasXcemWGdTyCWB6GUHBUN17A/view> Walkthrough Video
 
-Github repository link: https://github.com/mrgssg/team-profile-gen10
+<a href=https://github.com/mrgssg/team-profile-gen10> Github 
 
-Deployed URL link: https://mrgssg.github.io/team-profile-gen10/
+<a href=https://mrgssg.github.io/team-profile-gen10> Deployed URL
 
 ## Sample image generated from HTML: 
 <img src="./sampleHTML.png" width = "400px">
